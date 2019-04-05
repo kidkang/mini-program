@@ -1,0 +1,19 @@
+{
+    "name": "kidkang/miniprogram",
+    "description": "this is miniprogram api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kidkang",
+            "email": "723616880@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kd\\MiniProgram\\":"src/"
+        }
+    } 
+}
